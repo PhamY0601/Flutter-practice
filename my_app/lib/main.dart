@@ -62,7 +62,8 @@ class MyApp extends StatelessWidget {
                       ),
                     ],
                   ),
-                ),                Container(
+                ),              
+                Container(
                   height: 50,
                   margin: EdgeInsets.only(top: 10, bottom: 10),
                   padding: EdgeInsets.all(10),
